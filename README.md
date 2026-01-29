@@ -10,3 +10,5 @@ A lightweight Chromium Extension that provides either a plain or feature rich no
 
 ## Status
 Still in early development but will keep adding things here and there when I can
+
+![SideCodex Icon](src/Images/128x128 Pastel Blue.png)
